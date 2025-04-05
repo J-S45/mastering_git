@@ -1,0 +1,13 @@
+/* 948 */
+@media (max-width: 948px){
+    html{
+        font-size: 56.25%;
+    }
+
+    .container{
+        column-gap: 20px;
+    }
+
+}
+
+@media (max-width:)
